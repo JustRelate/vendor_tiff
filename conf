@@ -1,0 +1,1 @@
+./configure --prefix=/tmp/tiff-3.8.2 --disable-static --enable-shared --with-pic --without-x
